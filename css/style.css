@@ -1,0 +1,110 @@
+@import url(reset.css);
+@import url(fonts.css);
+body{
+    background-color: rgb(170, 133, 204);
+    font-family: "Playfair Display", serif;
+	font-size: 14px;
+}
+.title{
+    color:brown;
+    font-family: 'Oswald', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+    margin: 20px 0; 
+    font-style: normal;
+}
+
+#title{
+    margin: 30px;
+    text-decoration: line-through;
+    text-decoration-color: seagreen;
+
+}
+.main-text{
+    font-size: 18px;
+    text-align: justify;
+    margin: 0 20px 20px 20px;
+    font-weight: 500;
+    font-family: 'BitcountSingleInk', sans-serif;
+    text-transform: uppercase;
+    line-height: 1.5;
+}
+.text{
+    font-size: 16px;
+    text-align: center;
+    margin: 0 20px 20px 20px;
+    font-weight: 400;
+    font-family: 'Praysire-Demo', sans-serif;
+    text-transform: lowercase;
+}
+#tree{
+    color: blue;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 20px 20px 20px;
+    font-weight: 600;
+    font-family: 'Oswald', sans-serif;
+    text-decoration: underline;
+    text-decoration-color: orange;
+
+}
+.some-text{
+    font-size: 18px;
+    text-align: justify;
+    margin: 0 20px 20px 20px;
+    font-weight: 500;
+    font-family: 'BitcountSingleInk', sans-serif;
+    text-transform: uppercase;
+    line-height: 1.5;    
+    text-decoration: dotted underline;   
+}
+.another-text{
+    font-size: 20px;
+    text-align: center;
+    margin: 0 20px 20px 20px;
+    font-weight: 400;
+    font-family: 'Praysire-Demo', sans-serif;
+    text-transform:capitalize;
+    line-height: 1.5;
+    text-decoration: wavy underline;
+}
+.more-text{
+    font-size: 16px;
+    text-align: center;
+    margin: 0 20px 20px 20px;
+    font-weight: 400;
+    font-family: 'Praysire-Demo', sans-serif;
+    text-transform: capitalize;
+    line-height: 1.5;
+    word-spacing: 10px;
+    letter-spacing: 2px;
+}
+footer{
+    font-size: 25px;
+    text-align: center;
+    margin: 0 20px 20px 20px;
+    font-weight: 700;
+    font-family: 'Praysire-Demo', sans-serif;
+    text-transform: uppercase;
+    color: blueviolet;
+    white-space: nowrap;
+}
+#leo{
+    color: green;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 20px 20px 20px;
+    font-weight: 600;
+    font-family: 'Oswald', sans-serif;
+    text-decoration: overline;
+}
+#two{
+    color: red;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 20px 20px 20px;
+    font-weight: 600;
+    font-family: 'Oswald', sans-serif;
+    text-decoration: double;
+}

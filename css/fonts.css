@@ -1,6 +1,6 @@
 @font-face {
     font-family:'BitcountSingleInk';
-    src: url('/fonts/BitcountSingleInk-VariableFont_CRSV\,ELSH\,ELXP\,SZP1\,SZP2\,XPN1\,XPN2\,YPN1\,YPN2\,slnt\,wght.ttf') format('truetype');
+    src: url('/fonts/BitcountSingleInk-VariableFont_CRSV\,ELSH\,ELXP\,SZP1\,SZP2\,XPN1\,XPN2\,YPN1\,YPN2\,slnt\,wght.woff2') format('woff2');
     font-weight: 500;
     font-style: normal;
 }
@@ -12,7 +12,7 @@
 }
 @font-face {
     font-family: 'Oswald';
-    src: url('/fonts/Oswald-VariableFont_wght.ttf') format('truetype');
+    src: url('/fonts/Oswald-VariableFont_wght.woff2') format('woff2');
     font-weight: 200 900;
     font-style: normal;
 }
